@@ -67,3 +67,6 @@
 [submodule "mods/laptop"]
 	path = mods/laptop
 	url = https://github.com/Gerold55/laptop
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
