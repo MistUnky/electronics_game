@@ -85,3 +85,24 @@
 [submodule "mods/i3"]
 	path = mods/i3
 	url = https://github.com/minetest-mods/i3
+[submodule "mods/biofuel"]
+	path = mods/biofuel
+	url = https://github.com/Lokrates/Biofuel
+[submodule "mods/helicopter"]
+	path = mods/helicopter
+	url = https://github.com/APercy/helicopter
+[submodule "mods/bell"]
+	path = mods/bell
+	url = https://github.com/Sokomine/bell
+[submodule "hud_analog_clock"]
+	path = mods/hud_analog_clock
+	url = https://github.com/APercy/hud_analog_clock
+[submodule "mods/led_marquee"]
+	path = mods/led_marquee
+	url = https://github.com/mt-mods/led_marquee
+[submodule "mods/nixie_tubes"]
+	path = mods/nixie_tubes
+	url = https://github.com/mt-mods/nixie_tubes
+[submodule "mods/hopper"]
+	path = mods/hopper
+	url = https://notabug.org/TenPlus1/hopper
