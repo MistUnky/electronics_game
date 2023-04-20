@@ -1,0 +1,87 @@
+[submodule "mods/nyancat"]
+	path = mods/nyancat
+	url = https://github.com/minetest-mods/nyancat
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://github.com/mt-mods/pipeworks
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = https://github.com/mt-mods/basic_materials
+[submodule "mods/technic"]
+	path = mods/technic
+	url = https://github.com/mt-mods/technic
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
+[submodule "item_drop"]
+	path = mods/item_drop
+	url = https://github.com/minetest-mods/item_drop
+[submodule "mods/moremesecons"]
+	path = mods/moremesecons
+	url = https://github.com/minetest-mods/moremesecons
+[submodule "mods/digicontrol"]
+	path = mods/digicontrol
+	url = https://github.com/OgelGames/digicontrol
+[submodule "mods/digistuff"]
+	path = mods/digistuff
+	url = https://cheapiesystems.com/git/digistuff
+[submodule "mods/digiscreen"]
+	path = mods/digiscreen
+	url = https://cheapiesystems.com/git/digiscreen
+[submodule "mods/digilines"]
+	path = mods/digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "mods/rgblightstone"]
+	path = mods/rgblightstone
+	url = https://cheapiesystems.com/git/rgblightstone/
+[submodule "mods/jumpdrive"]
+	path = mods/jumpdrive
+	url = https://github.com/mt-mods/jumpdrive
+[submodule "mods/powerbanks"]
+	path = mods/powerbanks
+	url = https://github.com/OgelGames/powerbanks
+[submodule "mods/transporter"]
+	path = mods/transporter
+	url = https://github.com/mt-historical/transporter
+[submodule "mods/digtron"]
+	path = mods/digtron
+	url = https://github.com/minetest-mods/digtron
+[submodule "mods/luacmd"]
+	path = mods/luacmd
+	url = https://github.com/prestidigitator/minetest-mod-luacmd
+[submodule "mods/laptop"]
+	path = mods/laptop
+	url = https://github.com/Gerold55/laptop
+[submodule "mods/cottages"]
+	path = mods/cottages
+	url = https://github.com/Sokomine/cottages
+[submodule "mods/darkage"]
+	path = mods/darkage
+	url = https://github.com/adrido/darkage
+[submodule "mods/more_chests"]
+	path = mods/more_chests
+	url = https://github.com/minetest-mods/more_chests
+[submodule "mods/waterworks"]
+	path = mods/waterworks
+	url = https://github.com/FaceDeer/waterworks
+[submodule "mods/minimap_radar"]
+	path = mods/minimap_radar
+	url = https://github.com/OgelGames/minimap_radar
+[submodule "mods/advtrains"]
+	path = mods/advtrains
+	url = https://git.bananach.space/advtrains.git
+[submodule "mods/basic_trains"]
+	path = mods/basic_trains
+	url = http://git.bananach.space/basic_trains.git/
+[submodule "mods/drawers"]
+	path = mods/drawers
+	url = https://github.com/minetest-mods/drawers
+[submodule "mods/hangglider"]
+	path = mods/hangglider
+	url = https://notabug.org/Piezo_/minetest-hangglider
