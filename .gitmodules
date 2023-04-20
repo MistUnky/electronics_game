@@ -85,3 +85,6 @@
 [submodule "mods/hangglider"]
 	path = mods/hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider
+[submodule "mods/craftguide"]
+	path = mods/craftguide
+	url = https://github.com/minetest-mods/craftguide
