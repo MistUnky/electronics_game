@@ -82,9 +82,6 @@
 [submodule "mods/hangglider"]
 	path = mods/hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider
-[submodule "mods/i3"]
-	path = mods/i3
-	url = https://github.com/minetest-mods/i3
 [submodule "mods/biofuel"]
 	path = mods/biofuel
 	url = https://github.com/Lokrates/Biofuel
@@ -133,3 +130,6 @@
 [submodule "mods/caverealms_lite"]
 	path = mods/caverealms_lite
 	url = https://github.com/Ezhh/caverealms_lite
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
