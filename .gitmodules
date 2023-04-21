@@ -136,3 +136,12 @@
 [submodule "mods/crafting_bench"]
 	path = mods/crafting_bench
 	url = https://github.com/minetest-mods/crafting_bench
+[submodule "mods/technic_armor"]
+	path = mods/technic_armor
+	url = https://github.com/mt-mods/technic_armor
+[submodule "mods/sounding_line"]
+	path = mods/sounding_line
+	url = https://github.com/minetest-mods/sounding_line
+[submodule "mods/magma_conduits"]
+	path = mods/magma_conduits
+	url = https://github.com/minetest-mods/magma_conduits
