@@ -145,3 +145,6 @@
 [submodule "mods/magma_conduits"]
 	path = mods/magma_conduits
 	url = https://github.com/minetest-mods/magma_conduits
+[submodule "mods/death_compass"]
+	path = mods/death_compass
+	url = https://github.com/minetest-mods/death_compass
