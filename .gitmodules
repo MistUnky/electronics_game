@@ -148,3 +148,15 @@
 [submodule "mods/death_compass"]
 	path = mods/death_compass
 	url = https://github.com/minetest-mods/death_compass
+[submodule "mods/dynamic_forceload"]
+	path = mods/dynamic_forceload
+	url = https://github.com/FaceDeer/dynamic_forceload
+[submodule "mods/warpfield"]
+	path = mods/warpfield
+	url = https://github.com/FaceDeer/warpfield
+[submodule "mods/ropes"]
+	path = mods/ropes
+	url = https://github.com/minetest-mods/ropes
+[submodule "mods/luckyportal"]
+	path = mods/luckyportal
+	url = https://github.com/MistUnky/luckyportal
