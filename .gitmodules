@@ -106,3 +106,30 @@
 [submodule "mods/hopper"]
 	path = mods/hopper
 	url = https://notabug.org/TenPlus1/hopper
+[submodule "mods/multidimensions"]
+	path = mods/multidimensions
+	url = https://github.com/AiTechEye/multidimensions
+[submodule "mods/rocket"]
+	path = mods/rocket
+	url = https://git.minetest.land/Red_King_Cyclops/rocket/
+[submodule "mods/vacuum"]
+	path = mods/vacuum
+	url = https://github.com/mt-mods/vacuum
+[submodule "mods/spacesuit"]
+	path = mods/spacesuit
+	url = https://github.com/mt-mods/spacesuit
+[submodule "mods/space_travel"]
+	path = mods/space_travel
+	url = https://git.minetest.land/Red_King_Cyclops/space_travel
+[submodule "mods/scifi_nodes"]
+	path = mods/scifi_nodes
+	url = https://github.com/D00Med/scifi_nodes
+[submodule "mods/radiant_damage"]
+	path = mods/radiant_damage
+	url = https://github.com/minetest-mods/radiant_damage
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/minetest-mods/3d_armor
+[submodule "mods/caverealms_lite"]
+	path = mods/caverealms_lite
+	url = https://github.com/Ezhh/caverealms_lite
