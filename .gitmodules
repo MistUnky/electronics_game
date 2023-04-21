@@ -133,3 +133,6 @@
 [submodule "mods/unified_inventory"]
 	path = mods/unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory
+[submodule "mods/crafting_bench"]
+	path = mods/crafting_bench
+	url = https://github.com/minetest-mods/crafting_bench
