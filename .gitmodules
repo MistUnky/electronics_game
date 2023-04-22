@@ -103,9 +103,6 @@
 [submodule "mods/hopper"]
 	path = mods/hopper
 	url = https://notabug.org/TenPlus1/hopper
-[submodule "mods/multidimensions"]
-	path = mods/multidimensions
-	url = https://github.com/AiTechEye/multidimensions
 [submodule "mods/rocket"]
 	path = mods/rocket
 	url = https://git.minetest.land/Red_King_Cyclops/rocket/
