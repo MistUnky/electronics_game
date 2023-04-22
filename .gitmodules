@@ -160,3 +160,27 @@
 [submodule "mods/luckyportal"]
 	path = mods/luckyportal
 	url = https://github.com/MistUnky/luckyportal
+[submodule "mods/compost"]
+	path = mods/compost
+	url = https://github.com/minetest-mods/compost
+[submodule "mods/painting"]
+	path = mods/painting
+	url = https://github.com/MistUnky/painting
+[submodule "mods/infinite_chest"]
+	path = mods/infinite_chest
+	url = https://github.com/MistUnky/infinite_chest
+[submodule "mods/prestibags"]
+	path = mods/prestibags
+	url = https://github.com/prestidigitator/minetest-mod-prestibags
+[submodule "mods/jumping"]
+	path = mods/jumping
+	url = https://github.com/minetest-mods/jumping
+[submodule "mods/trash_can"]
+	path = mods/trash_can
+	url = https://github.com/minetest-mods/trash_can
+[submodule "mods/workbench"]
+	path = mods/workbench
+	url = https://github.com/minetest-mods/workbench
+[submodule "mods/x_enchanting"]
+	path = mods/x_enchanting
+	url = https://bitbucket.org/minetest_gamers/x_enchanting
