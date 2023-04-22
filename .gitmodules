@@ -151,15 +151,9 @@
 [submodule "mods/dynamic_forceload"]
 	path = mods/dynamic_forceload
 	url = https://github.com/FaceDeer/dynamic_forceload
-[submodule "mods/warpfield"]
-	path = mods/warpfield
-	url = https://github.com/FaceDeer/warpfield
 [submodule "mods/ropes"]
 	path = mods/ropes
 	url = https://github.com/minetest-mods/ropes
-[submodule "mods/luckyportal"]
-	path = mods/luckyportal
-	url = https://github.com/MistUnky/luckyportal
 [submodule "mods/compost"]
 	path = mods/compost
 	url = https://github.com/minetest-mods/compost
