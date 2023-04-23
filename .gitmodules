@@ -223,3 +223,9 @@
 [submodule "mods/zombies"]
 	path = mods/zombies
 	url = https://github.com/minetest-mods/zombies
+[submodule "mods/bbq"]
+	path = mods/bbq
+	url = https://github.com/Grizzly-Adam/BBQ
+[submodule "mods/jelys_pizzaria"]
+	path = mods/jelys_pizzaria
+	url = https://github.com/Extex101/jelys_pizzaria
