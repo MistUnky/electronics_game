@@ -175,3 +175,51 @@
 [submodule "mods/x_enchanting"]
 	path = mods/x_enchanting
 	url = https://bitbucket.org/minetest_gamers/x_enchanting
+[submodule "mods/bonemeal"]
+	path = mods/bonemeal
+	url = https://notabug.org/tenplus1/bonemeal
+[submodule "mods/stamina"]
+	path = mods/stamina
+	url = https://notabug.org/tenplus1/stamina
+[submodule "mods/minetest_mtg_plus"]
+	path = mods/minetest_mtg_plus
+	url = https://repo.or.cz/minetest_mtg_plus.git
+[submodule "mods/cheese"]
+	path = mods/cheese
+	url = https://github.com/AnnalysaTheMinetester/cheese
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://notabug.org/tenplus1/farming
+[submodule "mods/ethereal"]
+	path = mods/ethereal
+	url = https://notabug.org/tenplus1/ethereal
+[submodule "mods/wine"]
+	path = mods/wine
+	url = https://notabug.org/tenplus1/wine
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://notabug.org/tenplus1/mobs_redo
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://notabug.org/tenplus1/mobs_animal
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = https://notabug.org/TenPlus1/mobs_monster
+[submodule "mods/mob_horse"]
+	path = mods/mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse
+[submodule "mods/mobs_water"]
+	path = mods/mobs_water
+	url = https://notabug.org/TenPlus1/mobs_water
+[submodule "mods/mobs_sky"]
+	path = mods/mobs_sky
+	url = https://notabug.org/TenPlus1/mobs_sky
+[submodule "mods/mobs_npc"]
+	path = mods/mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc
+[submodule "mods/creeper"]
+	path = mods/creeper
+	url = https://notabug.org/TenPlus1/creeper
+[submodule "mods/zombies"]
+	path = mods/zombies
+	url = https://github.com/minetest-mods/zombies
