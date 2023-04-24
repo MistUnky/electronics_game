@@ -16,9 +16,6 @@
 [submodule "mods/technic"]
 	path = mods/technic
 	url = https://github.com/mt-mods/technic
-[submodule "item_drop"]
-	path = mods/item_drop
-	url = https://github.com/minetest-mods/item_drop
 [submodule "mods/moremesecons"]
 	path = mods/moremesecons
 	url = https://github.com/minetest-mods/moremesecons
