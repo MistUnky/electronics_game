@@ -229,3 +229,18 @@
 [submodule "mods/jelys_pizzaria"]
 	path = mods/jelys_pizzaria
 	url = https://github.com/Extex101/jelys_pizzaria
+[submodule "mods/craftguide"]
+	path = mods/craftguide
+	url = https://github.com/minetest-mods/craftguide
+[submodule "mods/what_is_this_uwu"]
+	path = mods/what_is_this_uwu
+	url = https://github.com/Rotfuchs-von-Vulpes/what_is_this_uwu-minetest/
+[submodule "mods/mudsling"]
+	path = mods/mudsling
+	url = https://github.com/Avicennia/mudsling
+[submodule "mods/xmaps"]
+	path = mods/xmaps
+	url = https://git.minetest.land/erlehmann/xmaps
+[submodule "mods/tga_encoder"]
+	path = mods/tga_encoder
+	url = https://git.minetest.land/erlehmann/tga_encoder
