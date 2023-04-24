@@ -124,9 +124,6 @@
 [submodule "mods/3d_armor"]
 	path = mods/3d_armor
 	url = https://github.com/minetest-mods/3d_armor
-[submodule "mods/caverealms_lite"]
-	path = mods/caverealms_lite
-	url = https://github.com/Ezhh/caverealms_lite
 [submodule "mods/unified_inventory"]
 	path = mods/unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory
