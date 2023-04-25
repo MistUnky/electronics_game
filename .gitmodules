@@ -238,3 +238,6 @@
 [submodule "mods/tga_encoder"]
 	path = mods/tga_encoder
 	url = https://git.minetest.land/erlehmann/tga_encoder
+[submodule "mods/bakedclay"]
+	path = mods/bakedclay
+	url = https://notabug.org/tenplus1/bakedclay
